@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../AVR_isaac"
+		},
+		{
+			"name": "ESP32_LM",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
